@@ -4,7 +4,7 @@
 ### ユーザー側
 https://github.com/nagaoka1166/spark-2023-teamA-backend/assets/69971830/ab1b0c86-d9bf-4495-86c9-c6ba9867d007
 
-### アドミン（管理者)側
+### Admin（管理者)側
 
 
 https://github.com/nagaoka1166/spark-2023-teamA-backend/assets/69971830/f38ff905-6c3b-4621-ba5c-79a018b3a100
