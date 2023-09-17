@@ -1,4 +1,9 @@
 # README
+
+## スライドにサービスの概要が載っております
+https://docs.google.com/presentation/d/1AUtNzlqxqYFfVl5kudgcehfFva9fijF1Nya33c9gAZs/edit?usp=sharing
+
+
 ## デモ動画
 
 ### ユーザー側
