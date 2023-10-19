@@ -8,6 +8,7 @@
 /.bundle
 
 /.env
+
 /config/fillhome-firebase.json
 
 # Ignore all logfiles and tempfiles.
