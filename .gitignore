@@ -9,6 +9,8 @@
 
 /.env
 
+/config/fillhome-firebase.json
+
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*

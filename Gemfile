@@ -29,6 +29,11 @@ gem 'jbuilder'
 
 gem 'rubocop'
 
+gem 'firebase-auth-rails'
+gem 'google-apis-identitytoolkit_v3'
+
+gem 'faraday'
+
 # Use Redis adapter to run Action Cable in ridgepole
 # gem "redis", "~> 4.0"
 
@@ -53,6 +58,7 @@ gem 'bootsnap', require: false
 gem 'annotate'
 
 gem 'rails_same_site_cookie', '~> 0.1.8'
+
 
 # Use Sass to process CSS
 # gem "sassc-rails"
