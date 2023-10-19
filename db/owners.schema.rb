@@ -1,4 +1,5 @@
 create_table 'owners', force: :cascade do |t|
+  t.string 'uid', null: false
   t.string 'email', null: false
   t.string 'password_digest', null: false
   t.string 'phone_number', null: false
